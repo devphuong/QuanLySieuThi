@@ -1,0 +1,178 @@
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.Cache
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.AssemblyReference.cache
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.cache
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CopyComplete
+D:\CĐKT Cao Thắng\Năm 2\Kỳ II\ĐA LT-Windows\đồ án mô hình 3 lớp\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csprojAssemblyReference.cache
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\SV\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CopyComplete
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CopyComplete
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+C:\Users\03062\Desktop\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CopyComplete
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.QLNV.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.frmThemnv.resources
+C:\Users\03062\Desktop\baitap\Đồ án\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.ResolveComReference.cache
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.ResolveComReference.cache
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.frmThemnv.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.QLNV.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CopyComplete
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.ThongKe.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.BieuDoCot.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.DanhThuTheoBang.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.TiLeBanHang.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.BanHang.resources
+C:\Users\quynh\Downloads\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.NhapHang.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.AssemblyReference.cache
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.SuggestedBindingRedirects.cache
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.ResolveComReference.cache
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.BieuDoCot.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.DanhThuTheoBang.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.frmThemnv.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.NhapHang.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.QLNV.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.ThongKe.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.TiLeBanHang.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.cache
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CopyComplete
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.frm_BanHang.resources
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\System.Data.SqlClient.dll
+C:\Users\tranp\OneDrive\Máy tính\download\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\System.Data.SqlClient.xml
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe.config
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.ResolveComReference.cache
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.exe
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.pdb
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.exe
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\GUI_QuanLySieuThi.pdb
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.dll
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.dll
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\System.Data.SqlClient.dll
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.dll
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\BUS_QuanLySieuThi.pdb
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DOT_QuanLySieuThi.pdb
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\System.Data.SqlClient.xml
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\bin\Debug\DAL_QuanLySieuThi.pdb
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csprojResolveAssemblyReference.cache
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.BieuDoCot.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.DanhThuTheoBang.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.frmThemnv.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.frm_BanHang.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmCashier.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmChiTietCa.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmDoiMK.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.GUI_frmLogin.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.NhapHang.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.Properties.Resources.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.QLNV.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.ThongKe.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.TiLeBanHang.resources
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.GenerateResource.Cache
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.AssemblyReference.cache
+D:\Ôn Tập IT\Đồ án APP Window\Đồ án chính thức windoww\GUI_QuanLySieuThi\GUI_QuanLySieuThi\obj\Debug\GUI_QuanLySieuThi.csproj.CoreCompileInputs.cache
